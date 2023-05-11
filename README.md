@@ -1,3 +1,3 @@
 # TypeScript Studies
  
-#Examples made in my typescript studies.
+Examples made in my typescript studies.
